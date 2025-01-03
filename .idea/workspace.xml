@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc8c68db-b9f3-4679-9ff0-984518ffe2e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Youflow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bottom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/acetone_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/acids_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/arrow_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/auto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/brands.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/check_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/control-scheme-mobile-ru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/control-scheme-ru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/control.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/dispersions_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/filter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/fine_chem_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/food_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/galvanic_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/galvanized_wash_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/hose.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/logo_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/lubricants_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/menu.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/mixer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/perfume_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/petrochem_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/process.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/process_centrifugal_pump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/process_filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/process_hose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/process_measurement.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/process_mixer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/process_positive_displacement_pump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/progress_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/pump.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/pumps.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/report_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/spare.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/syrup_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youflow _ Эффективное производство и контроль_files/water_icon.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2r7jn93cGxNzqPKPWcPGdpgXQZH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc8c68db-b9f3-4679-9ff0-984518ffe2e0" name="Changes" comment="" />
+      <created>1735917171843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735917171843</updated>
+    </task>
+    <servers />
+  </component>
+</project>
